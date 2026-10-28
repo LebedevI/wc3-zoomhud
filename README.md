@@ -5,7 +5,7 @@
 
 Проверено на версии **1.27b (1.27.1.7085)**, `Game.dll` 14 837 224 байт, Windows 10 x64.
 
-![HUD](docs/hud.png)
+![HUD](docs/hud.jpg)
 
 ---
 
